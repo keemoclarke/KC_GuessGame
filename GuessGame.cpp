@@ -29,6 +29,7 @@ while (input !=number) {     // Keep asking until user gets correct number
 
 }
 
+	// exit loop when user enters input == number; 
 
 
 cout << "\n\n\nCongrats! You're a winner!!!.\n\n";
